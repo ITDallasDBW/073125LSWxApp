@@ -8,6 +8,9 @@
   font-family: "Gabarito", sans-serif;
 }
 
+.red {
+  color: red;
+}
 body,
 html {
   height: 100%;
